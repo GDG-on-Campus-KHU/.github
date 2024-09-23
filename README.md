@@ -1,2 +1,4 @@
-# GDSC-KHU
-i n t r o
+# Google Developers Group on Campus : KHU
+
+
+### 안녕하세요
