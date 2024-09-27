@@ -1,4 +1,4 @@
-# Google Developers Group on Campus : KHU
+# Google Developer Groups on Campus : KHU
 
 <img src="../GDGKHU.png">
 
