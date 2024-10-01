@@ -20,5 +20,3 @@
 
 🚀 Dependabot_Title <br>
 Dependabot_msg
-
-
